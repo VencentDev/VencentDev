@@ -17,25 +17,25 @@
 ```ansi
 [1;32m$ icefetch[0m
 
-[1;32m              .;ll;.                .;ll;.                    [0m   [1;32micebell@nastybox[0m
-[1;32m            .:loooool:.    ___    .:loooool:.                 [0m   [1;32m----------------[0m
-[1;32m          .:looooooool:. .'   '. .:looooooool:.               [0m   [1;32mUptime[0m       : 5 years
-[1;32m        'cooooooooooooc;'  .-.  ';coooooooooooc'              [0m   [1;32mLanguages[0m    : Java, Python, JS/TS, PHP
-[1;32m      .;loooooooooooooool;.( o ).;loooooooooooooool;.         [0m   [1;32mFrameworks[0m   : Springboot, Nextjs, Angular, Laravel
-[1;32m    .:loooooooooooooooooo:'-.-':oooooooooooooooooooo:.        [0m   [1;32mOS[0m           : Arch Linux
-[1;32m  .;coooooooooooooooooooooo|=|oooooooooooooooooooooooc;.      [0m   [1;32mShell[0m        : Bash
-[1;32m .;loooooooooooooooooooooooo|=|oooooooooooooooooooooooool;.   [0m   [1;32mEditor[0m       : VS Code
-[1;32m'cooooooooooooooooooooooooo |=| oooooooooooooooooooooooooooc' [0m   [1;32mTerminal[0m     : Kitty
-[1;32m'cooooooooooooooooooooooooo |=| oooooooooooooooooooooooooooc' [0m   [1;32mHobby[0m        : Side projects, web dev, tech blogs
-[1;32m  ':loooooooooooooooooooo   |=|   oooooooooooooooooooool:'    [0m
-[1;32m    ':coooooooooooooooo    |===|    ooooooooooooooooc:'       [0m   [1;32mInterests[0m    : AI/ML, systems, cybersecurity
-[1;32m       ':loooooooooo       |===|       oooooooooool:'         [0m
-[1;32m           ':cool:'        |===|        ':looc:'              [0m   [1;32mAchievements[0m : Magna Cum Laude, Best Thesis
-[1;32m                          |=====|                             [0m
-[1;32m                          |=====|                             [0m   [1;32m----------------[0m
-[1;32m                           |===|                              [0m   [1;32mPortfolio[0m    : https://vencent-portfolio.vercel.app
-[1;32m                            |=|                               [0m   [1;32mLinkedIn[0m     : https://l1nk.dev/ljuky3g
-[1;32m                             '                                [0m   [1;32mEmail[0m        : genervencentdelute@gmail.com
+              .;ll;.                .;ll;.                       icebell@nastybox
+            .:loooool:.    ___    .:loooool:.                    ----------------
+          .:looooooool:. .'   '. .:looooooool:.                  Uptime       : 5 years
+        'cooooooooooooc;'  .-.  ';coooooooooooc'                 mLanguages   : Java, Python, JS/TS, PHP
+      .;loooooooooooooool;.( o ).;loooooooooooooool;.            mFrameworks  : Springboot, Nextjs, Angular, Laravel
+    .:loooooooooooooooooo:'-.-':oooooooooooooooooooo:.           mOS          : Arch Linux
+  .;coooooooooooooooooooooo|=|oooooooooooooooooooooooc;.         Shell        : Bash
+ .;loooooooooooooooooooooooo|=|oooooooooooooooooooooooool;.      Editor       : VS Code
+'cooooooooooooooooooooooooo |=| oooooooooooooooooooooooooooc'    Terminal     : Kitty
+'cooooooooooooooooooooooooo |=| oooooooooooooooooooooooooooc'    Hobby        : Side projects, web dev, tech blogs
+  ':loooooooooooooooooooo   |=|   oooooooooooooooooooool:'    
+    ':coooooooooooooooo    |===|    ooooooooooooooooc:'          Interests    : AI/ML, systems, cybersecurity
+       ':loooooooooo       |===|       oooooooooool:'         
+           ':cool:'        |===|        ':looc:'                 Achievements : Magna Cum Laude, Best Thesis
+                          |=====|                             
+                          |=====|                                ----------------
+                           |===|                                 Portfolio    : https://vencent-portfolio.vercel.app
+                            |=|                                  LinkedIn     : https://l1nk.dev/ljuky3g
+                             '                                   Email        : genervencentdelute@gmail.com
 ```
 
 ---
