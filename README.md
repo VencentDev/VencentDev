@@ -101,7 +101,7 @@ const icebell = {
 <p align="center">
   <a href="https://https://vencent-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41&labelColor=0D1117"/></a>
   <a href="https://l1nk.dev/ljuky3g"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117"/></a>
-  <a href="mailto:icebell@protonmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41&labelColor=0D1117"/></a>
+  <a href="mailto:genervencentdelute@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41&labelColor=0D1117"/></a>
   <a href="https://github.com/VencentDev"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117"/></a>
 </p>
 
