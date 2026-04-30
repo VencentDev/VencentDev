@@ -33,10 +33,14 @@
            ':cool:'        |===|        ':looc:'                 Achievements : Magna Cum Laude, Best Thesis
                           |=====|                             
                           |=====|                                ----------------
-                           |===|                                 Portfolio    : https://vencent-portfolio.vercel.app
-                            |=|                                  LinkedIn     : https://l1nk.dev/ljuky3g
-                             '                                   Email        : genervencentdelute@gmail.com
+                           |===|                                 
+                            |=|                                  
+                             '                                   
 ```
+
+[Portfolio](https://vencent-portfolio.vercel.app) ·
+[LinkedIn](https://l1nk.dev/ljuky3g) ·
+[Email](mailto:genervencentdelute@gmail.com)
 
 ---
 
