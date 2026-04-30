@@ -17,22 +17,22 @@
 ```ansi
 [1;32m$ icefetch[0m
 
-              .;ll;.                .;ll;.                       icebell@nastybox
-            .:loooool:.    ___    .:loooool:.                    ----------------
-          .:looooooool:. .'   '. .:looooooool:.                  Uptime       : 5 years
-        'cooooooooooooc;'  .-.  ';coooooooooooc'                 mLanguages   : Java, Python, JS/TS, PHP
-      .;loooooooooooooool;.( o ).;loooooooooooooool;.            mFrameworks  : Springboot, Nextjs, Angular, Laravel
-    .:loooooooooooooooooo:'-.-':oooooooooooooooooooo:.           mOS          : Arch Linux
-  .;coooooooooooooooooooooo|=|oooooooooooooooooooooooc;.         Shell        : Bash
- .;loooooooooooooooooooooooo|=|oooooooooooooooooooooooool;.      Editor       : VS Code
-'cooooooooooooooooooooooooo |=| oooooooooooooooooooooooooooc'    Terminal     : Kitty
-'cooooooooooooooooooooooooo |=| oooooooooooooooooooooooooooc'    Hobby        : Side projects, web dev, tech blogs
-  ':loooooooooooooooooooo   |=|   oooooooooooooooooooool:'    
-    ':coooooooooooooooo    |===|    ooooooooooooooooc:'          Interests    : AI/ML, systems, cybersecurity
+                             .                              icebell@nastybox
+                            ___                             ----------------
+                          .'   '.                           Uptime      : 5 years
+                         '  .-.  '                          Languages   : Java, Python, JS/TS, PHP
+      .;loooooooooooooool;.( o ).;loooooooooooooool;.       Frameworks  : Springboot, Nextjs, Angular, Laravel
+   .:oooooooooooooooooooooo'-.-':oooooooooooooooooooooo:.   OS          : Arch Linux
+  .;ooooooooooooooooooooooc;|=|ooooooooooooooooooooooc;.    Shell       : Bash
+      .;oooooooooooooooooool|=|oooooooooooooooooool;.       Editor      : VS Code
+           'ooooooooooooooc |=| ooooooooooooooc'            Terminal    : Kitty
+           'coooooooooooooo |=| ooooooooooooooc'            Hobby       : Side projects, web dev, tech blogs
+        ':coooooooooooooo   |=|   ooooooooooooool:'    
+       ':ooooooooooooooc   |===|    ooooooooooooooc:'       Interests   : AI/ML, systems, cybersecurity
        ':loooooooooo       |===|       oooooooooool:'         
-           ':cool:'        |===|        ':looc:'                 Achievements : Magna Cum Laude, Best Thesis
+           ':cool:'        |===|        ':looc:'            Achievements: Magna Cum Laude, Best Thesis
                           |=====|                             
-                          |=====|                                ----------------
+                          |=====|                           ----------------
                            |===|                                 
                             |=|                                  
                              '                                   
