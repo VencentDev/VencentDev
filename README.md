@@ -27,14 +27,10 @@
       .;oooooooooooooooooool|=|oooooooooooooooooool;.       Editor      : VS Code
            'ooooooooooooooc |=| ooooooooooooooc'            Terminal    : Kitty
           'cooooooooooooooo |=| ooooooooooooooc'            Hobby       : Side projects, web dev, tech blogs
-            ':coooooooooo   |=|   oooooooooool:'    
-                           |===|                            Interests   : AI/ML, systems, cybersecurity
-                           |===|                
-                           |===|                            Achievements: Magna Cum Laude, Best Thesis
-                          |=====|                             
-                          |=====|                           ----------------
-                           |===|                                 
-                            |=|                                  
+            ':coooooooooo  |===|  oooooooooool:'                                                                                                       
+                          |=====|                           Interests   : AI/ML, systems, cybersecurity                        
+                           |===|                            Achievements: Magna Cum Laude, Best Thesis     
+                            |=|                             ----------------     
                              '                                   
 ```
 
