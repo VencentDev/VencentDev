@@ -21,16 +21,16 @@
                             ___                             ----------------
                           .'   '.                           Uptime      : 5 years
                          '  .-.  '                          Languages   : Java, Python, JS/TS, PHP
-      .;loooooooooooooool;.( o ).;loooooooooooooool;.       Frameworks  : Springboot, Nextjs, Angular, Laravel
+      .;loooooooooooooool;.( o ).;loooooooooooooool;.       Frameworks  : Springboot, Next.js, Angular, Laravel
    .:oooooooooooooooooooooo'-.-':oooooooooooooooooooooo:.   OS          : Arch Linux
   .;ooooooooooooooooooooooc;|=|ooooooooooooooooooooooc;.    Shell       : Bash
       .;oooooooooooooooooool|=|oooooooooooooooooool;.       Editor      : VS Code
            'ooooooooooooooc |=| ooooooooooooooc'            Terminal    : Kitty
-           'coooooooooooooo |=| ooooooooooooooc'            Hobby       : Side projects, web dev, tech blogs
-        ':coooooooooooooo   |=|   ooooooooooooool:'    
-       ':ooooooooooooooc   |===|    ooooooooooooooc:'       Interests   : AI/ML, systems, cybersecurity
-       ':loooooooooo       |===|       oooooooooool:'         
-           ':cool:'        |===|        ':looc:'            Achievements: Magna Cum Laude, Best Thesis
+          'cooooooooooooooo |=| ooooooooooooooc'            Hobby       : Side projects, web dev, tech blogs
+            ':coooooooooo   |=|   oooooooooool:'    
+                           |===|                            Interests   : AI/ML, systems, cybersecurity
+                           |===|                
+                           |===|                            Achievements: Magna Cum Laude, Best Thesis
                           |=====|                             
                           |=====|                           ----------------
                            |===|                                 
