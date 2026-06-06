@@ -51,7 +51,6 @@ const icebell = {
     location    : "[REDACTED]",
     currentWork : "Building side projects and breaking things to learn how they work",
     learning    : ["AI / ML", "Systems Programming", "Offensive Security"],
-    askMeAbout  : ["web dev", "backend", "linux", "ai"],
     motto       : "The quieter you become, the more you can hear."
 };
 ```
