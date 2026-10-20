@@ -21,11 +21,11 @@
                             ___                             ----------------
                           .'   '.                           Uptime      : 5 years
                          '  .-.  '                          Languages   : Java, Python, JS/TS, PHP
-      .;loooooooooooooool;.( o ).;loooooooooooooool;.       Frameworks  : Springboot, Next.js, Angular, Laravel
+      .;loooooooooooooool;.( o ).;loooooooooooooool;.       Frameworks  : Springboot, Next.js, NestJS, Angular
    .:oooooooooooooooooooooo'-.-':oooooooooooooooooooooo:.   OS          : Arch Linux
-  .;ooooooooooooooooooooooc;|=|ooooooooooooooooooooooc;.    Shell       : Bash
+  .;ooooooooooooooooooooooc;|=|ooooooooooooooooooooooc;.    TUMX        : Herdr
       .;oooooooooooooooooool|=|oooooooooooooooooool;.       Editor      : VS Code
-           'ooooooooooooooc |=| ooooooooooooooc'            Terminal    : Kitty
+           'ooooooooooooooc |=| ooooooooooooooc'            Terminal    : Kitty, Ghostly
           'cooooooooooooooo |=| ooooooooooooooc'            Hobby       : Side projects, web dev, tech blogs
             ':coooooooooo  |===|  oooooooooool:'            
                           |=====|                           Interests   : AI/ML, systems, cybersecurity
@@ -45,16 +45,6 @@
 ## <samp>`> ./about_me.sh`</samp>
 
 ```bash
-const icebell = {
-    alias       : "ICE BELL",
-    role        : "Software Engineer",
-    location    : "[REDACTED]",
-    currentWork : "Building side projects and breaking things to learn how they work",
-    learning    : ["AI / ML", "Systems Programming", "Offensive Security"],
-    motto       : "The quieter you become, the more you can hear."
-};
-```
-
 ---
 
 ## <samp>`> ./tech_stack.sh`</samp>
