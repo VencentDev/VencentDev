@@ -42,9 +42,7 @@
   <a href="https://github.com/VencentDev"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117"/></a>
 </p>
 
-## <samp>`> ./about_me.sh`</samp>
 
-```bash
 ---
 
 ## <samp>`> ./tech_stack.sh`</samp>
