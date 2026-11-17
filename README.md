@@ -15,7 +15,7 @@
 <!-- Main Content: ASCII Cicada + Fastfetch-style info, all in one ANSI block -->
 
 ```ansi
-[1;32m$ icefetch[0m
+[1;32m$ icebell[0m
 
                              .                              icebell@nastybox
                             ___                             ----------------
